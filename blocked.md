@@ -5,15 +5,15 @@ Dokumen ini menyajikan ringkasan sementara terhadap alamat IP yang mencapai amba
 
 ## Ringkasan
 
-### Total Ip diblokir: 47 ###
+### Total Ip diblokir: 48 ###
 ### Total negara: 16 ###
 ### Total ASN: 29 ###
 
 ## 5 Negara sering muncul
 
 - Amerika Serikat: 9
-- Belanda: 8
 - China: 8
+- Belanda: 8
 - Jerman: 4 
 - Luksemburg: 3
 - Singapura: 3
@@ -30,7 +30,7 @@ Dokumen ini menyajikan ringkasan sementara terhadap alamat IP yang mencapai amba
 - Hosting: 15
 - Business: 19
 - ISP: 9
-- Mobile: 4
+- Mobile: 5
 
 ## Catatan
 - Statistik pada dokumen ini merupakan **snapshot** dan akan berubah seiring bertambahnya data.
