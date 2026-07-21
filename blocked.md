@@ -5,7 +5,7 @@ Dokumen ini menyajikan ringkasan sementara terhadap alamat IP yang mencapai amba
 
 ## Ringkasan
 
-### Total Ip diblokir: 52 ###
+### Total Ip diblokir: 53 ###
 ### Total negara: 16 ###
 ### Total ASN: 31 ###
 
