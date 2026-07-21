@@ -2,11 +2,11 @@
 
 > Update: 2026-07-20
 
-- 45 admin
+- 46 admin
 - 13 user
 - 11 test
+- 9 orangepi
 - 8 support
-- 8 orangepi
 - 5 ubuntu
 - 5 postgres
 - 4 ubnt
