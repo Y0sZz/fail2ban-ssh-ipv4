@@ -5,14 +5,14 @@ Dokumen ini menyajikan ringkasan sementara terhadap alamat IP yang mencapai amba
 
 ## Ringkasan
 
-### Total Ip diblokir: 48 ###
+### Total Ip diblokir: 51 ###
 ### Total negara: 16 ###
 ### Total ASN: 29 ###
 
 ## 5 Negara sering muncul
 
+- China: 11
 - Amerika Serikat: 9
-- China: 8
 - Belanda: 8
 - Jerman: 4 
 - Luksemburg: 3
@@ -27,8 +27,8 @@ Dokumen ini menyajikan ringkasan sementara terhadap alamat IP yang mencapai amba
 - Alibaba (US) Technology Co., Ltd. : 3
 
 ## Jenis jaringan yang sering muncul
-- Hosting: 15
-- Business: 19
+- Hosting: 16
+- Business: 21
 - ISP: 9
 - Mobile: 5
 
